@@ -1,0 +1,9 @@
+{
+  "name": "hwpbench-adapter-kordoc",
+  "private": true,
+  "type": "module",
+  "description": "hwp-parse-bench 의 kordoc 어댑터 (버전 고정)",
+  "dependencies": {
+    "kordoc": "4.24.47"
+  }
+}

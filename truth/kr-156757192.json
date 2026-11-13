@@ -1,0 +1,170 @@
+{
+ "id": "kr-156757192",
+ "source": "069a96552a6a4986b937bac28b5d4f5acc87bae50308f779ad234291063b083e",
+ "status": "auto",
+ "extractor": "4",
+ "blocks": [
+  {
+   "rows": [
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "보도자료",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "보도시점",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포 후 즉시 사용",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "2026. 4. 22.(수)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "김민석 국무총리, “원전시설의 철저한 안전관리 당부”",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "□ 김민석 국무총리는 4월 22일(수) 울산 새울원자력발전소 3호기 시운전과정에서 발생한 안전문제(전자부품에서 연기 발생) 상황을 보고받고, 기후에너지환경부 등 관계부처에 철저한 원인 규명과 현장 안전관리에 힘써줄 것을 지시하였다.",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "￭ (사건개요) 4월 22일 08:49경, 새울원전 3호기 보조건물 전기실에서 연기 발생 → 현장 운전원의 해당설비 전원차단 등 초동조치 후 소방대에서 안전조치 확인",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "□ 김 총리는 최근 중동 전쟁으로 에너지 공급망 변동성이 커짐에 따라 국가 에너지 안보의 핵심인 원전의 안정적 운영이 무엇보다 중요하다고 언급하며,",
+   "kind": "paragraph"
+  },
+  {
+   "text": "○ 특히 원전 가동률을 제고해야 하는 시기인 만큼 경미한 안전사고라도 발생하지 않도록 현장의 높은 경각심이 필요하다고 강조하였다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "* (기후부) 6월까지 원전 4기 추가 재가동을 통해 원전 이용율 80% 이상 추진 목표",
+   "kind": "paragraph"
+  },
+  {
+   "text": "□ 이에 따라 기후에너지환경부는 이번 연기 발생의 근본 원인을 면밀히 분석하는 한편, 4월 24일(금) 한국수력원자력과 긴급 회의를 개최하여 원전 건설 및 운영 현장의 안전관리 전반에 대한 철저한 점검을 수행할 예정이다.",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "담당 부서",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "국무조정실",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "책임자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "과장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "김도헌",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "안전환경에너지정책관실",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "담당자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "전문위원",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "이정욱",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  }
+ ]
+}

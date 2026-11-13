@@ -1,0 +1,681 @@
+{
+ "id": "kr-156789032",
+ "source": "64569e121d8ba8ebb6e63909221d0a19075a5399dacb324df4d08bfd0897193b",
+ "status": "auto",
+ "extractor": "4",
+ "blocks": [
+  {
+   "rows": [
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "보도자료",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "보도 시점",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포 즉시",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "2026. 11. 11.(수)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "‘국가표준식품성분 데이터베이스(DB)’, 국민 아이디어로 날개 달다",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "- 농촌진흥청-(사)대한지역사회영양학회, ‘국가표준식품성분DB 활용 아이디어 공모전’ 수상자 발표 및 시상식 개최 - 난치성 뇌전증 환자 영양관리식, 어린이 영양교육 게임, 결식아동 식품선택 지원 도구 등 현장 아이디어 봇물",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "농촌진흥청(청장 이승돈)은 (사)대한지역사회영양학회와 공동 개최한 ‘2026년 국가표준식품성분 데이터베이스(DB) 활용 아이디어 공모전’ 최종 수상자를 발표하고, 우수 아이디어를 공유했다.",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "현장활용 대상(케토그램)",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "현장활용 최우수상(캐치영양몬)",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "학술활용 최우수상(서울대 권성옥)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "이번 공모전은 국가표준식품성분 데이터베이스(DB) 활용을 촉진하고 다양한 활용 사례를 발굴하기 위해 마련됐다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "공모 분야는 앱, 프로그램, 콘텐츠 등 현장 활용 분야와 연구논문 또는 정책 보고서 형태의 학술 활용 분야로 나누어 진행됐다. 수상작들은 국가표준식품성분 데이터베이스가 국민의 일상과 현장에서 어떻게 활용될 수 있는지를 다양하게 보여줬다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "현장 활용 분야 대상(농촌진흥청장상)은 난치성 뇌전증 환자 치료용 케톤식단 작성을 지원하는 플랫폼 ‘케토그램’을 제안한 은평성모병원팀이 받았다. ‘케토그램’은 임상 영양 현장의 요구를 실제 적용한 점에서 높은 평가를 얻었다. 국가표준식품성분 데이터베이스가 국내뿐만 아니라 몽골 등 해외 영양 교육에도 활용될 가능함을 보여줬다. 이밖에 최우수상(‘캐치영양몬’)을 비롯해 우수상 3팀과 장려상 4팀이 이름을 올렸다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "학술 활용 분야 최우수상(농촌진흥청장상)은 한국의 통합 식품영양성분 데이터베이스 구축 과정을 발표한 서울대학교 권성옥 팀이 차지했다. 또한, 우수상 1팀, 장려상 2팀 등 총 4개 팀이 수상했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "국가표준식품성분 데이터베이스는 국민이 일상적으로 섭취하는 식품의 영양 성분을 체계적으로 구축한 자료로, 1970년 「국가표준식품성분표」 초판 발간 이후 5년마다 개정해 왔다. 올해 4월 공개한 10.4 버전에는 식품 3,366점에 대한 130종 영양 성분 정보 약 30만 5,000건이 수록돼 있다. 농식품올바로 누리집(koreanfood.rda.go.kr)에서 누구나 내려받을 수 있다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "농촌진흥청은 이번 공모전 수상작을 국가표준식품성분 데이터베이스 홍보에 활용하고, 제안 아이디어를 데이터베이스 서비스 개선에 반영할 계획이다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "농촌진흥청 국립식량과학원 김병석 원장은 “국민과 학계의 창의적인 생각이 급식, 교육, 맞춤형 영양 관리 등 다양한 서비스로 이어져 건강한 식생활을 뒷받침할 수 있도록 식품 성분 정보를 지속적으로 확충하고 활용 기반을 넓혀 가겠다.”라고 말했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "붙임. 「국가표준식품성분DB 활용 아이디어 공모전」 수상 목록 및 내용",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "담당 부서",
+      "rowspan": 3,
+      "colspan": 1
+     },
+     {
+      "text": "국립식량과학원",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "책임자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "과 장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "신성휴",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "식생활영양과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "담당자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "연구관",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "김양숙",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 5
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "붙임",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "국가표준식품성분DB 활용 아이디어 공모전 수상 목록 및 내용",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "○ 현장활용 분야 (대상 1, 최우수상 2, 우수상 3, 장려상 4)",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "상장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "성명",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "소속",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "작품명",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "주요내용",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "대상",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "김수현 외 1",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "가톨릭대 은평성모병원 영양팀",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "국가표준식품성분DB 기반 공익형 오픈소스 케톤식 식단 설계 플랫폼 「케토그램(Ketogram)」",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 난치성 뇌전증 환자 치료용 케톤식 식단 작성을 지원하는 오픈소스 플랫폼 * 국가표준식품성분DB 10.4 및 AFACI 아시아식품성분DB 활용 ° 100g당 에너지·지방·단백질·탄수화물 값 기반 식품 선택→섭취량 조절→영양소·케톤비율 자동 계산→식단 저장 ° 몽골 국제영양봉사(WITH) 현장 적용을 위해 한국어·몽골어 버전을 함께 개발, 몽골 식품성분 데이터 부재 시 우리 성분DB로 보완",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "최우수상",
+      "rowspan": 2,
+      "colspan": 1
+     },
+     {
+      "text": "주혜인 외 2",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "가톨릭대 식품영양학과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "캐치 영양몬: 아동의 올바른 식습관과 영양지식 습득을 위한 에듀테크 앱",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 위치기반 AR·게이미피케이션·국가표준식품성분DB API 결합 아동용 에듀테크 앱 ° 가상 마을의 식품군별 상점에서 식재료를 채집, 5대 식품군 급식판에 재료를 담아 영양 균형을 즉각 피드백, 영양결핍 몬스터를 음식으로 치유하는 RPG 형식 ° 편식 예방과 영양 학습 유도",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "강서윤 외 3",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "상지대 컴퓨터공학과 등",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "「든든」: 결식아동의 편의점 식사 선택 지원 서비스",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 결식아동이 편의점에서 균형 있는 한 끼를 고르도록 CU 상품명·분류를 국가표준식품성분표 대표 식품과 연결 ° 100g 기준 영양성분을 상품 기준량으로 환산 후 연령·성별·몸무게로 한 끼 영양 목표를 계산해 선택 상품 합산치와 비교 ° 부족 영양소를 보완하는 상품을 최대 3개 추천. 확인값과 추정값을 구분하고 누락 성분은 판정 보류",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "우수상",
+      "rowspan": 3,
+      "colspan": 1
+     },
+     {
+      "text": "배슬기",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "한양대 ERICA 바이오나노공학과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "식품 우선 영양 관리 웹서비스 「오늘의 영양제」",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 끼니별 식단을 DB 10.4 활용 계산 후 영양섭취 기준과 비교하여 개인별 영양제 복용 여부·1일 복용필요량 등 산출 웹서비스 ° '식품으로 먼저 채우고 영양제는 부족한 만큼만' 원칙 아래 영양제 중복·상한 초과 자동 판정, 메뉴젠 레시피 연계 ° 부족 영양소는 국산 제철 농산물로 안내",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "이주희 외 5",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "오뚜기 식품안전과학연구소 뉴트리사이언스팀",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "오밸런스",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 국가표준식품성분 DB와 식약처 음식 DB통합·표준화해 식단·레시피 구성 시 영양정보를 실시간 확인하는 개인 맞춤형 영양정보 서비스 ° '맞춤식단'으로 하루 필요에너지 대비 균형도 시각화, '내맘대로 레시피'로 재료 교체 시 영양 변화량 즉시 재산출 ° 당뇨·암환자용 식단 체크, 생성형 AI 기반 식품 시각화 및 '오픈키친' 커뮤니티로 식단 공유",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "김보휘",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "한남대 식품영양학과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "「차곡」– 먹고, 발견하고, 차곡차곡 쌓는 나만의 영양 컬렉션",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 섭취한 식품을 입력하면 국가표준식품성분 DB 기반으로 식품·영양소 카드가 생성, 이를 캐릭터에게 먹여 육성하는 게임형 영양 관리 서비스. ° 한국인영양섭취기준과 비교해 영양 균형·부족·과잉 상태를 캐릭터로 시각화하고 보완 식품 정보 제공",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "장려상",
+      "rowspan": 4,
+      "colspan": 1
+     },
+     {
+      "text": "지금",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "부경대 사회복지학전공",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "모여봐요 뉴트리 아일랜드(Nutri-Island): 개인 맞춤형 알레르기 세이프티 필터 및 식습관 교정 생태계 육성 게임",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 국가표준식품성분 DB와 식약처 식품영양·원재료 DB를 연계해 영양성분과 19대 알레르기 유발 항원을 실시간 매핑 ° 아동이 복합 조리 음식 사진을 찍으면 Vision AI가 숨은 알레르기 성분을 감지·경고하고 안전 대체식을 제안 ° 섭취 식단에 따라 가상 섬의 날씨와 수호 동물이 변하는 생태계 육성 게임 ° 소아비만 예방·영양 리터러시 함양",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "최동혁 외 2",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "유한대 식품영양학과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "임산부·수유부 맞춤형 영양관리 앱 『MomiMeal』",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 엽산·철·칼슘·오메가-3 등 미량영양소 결핍 위험이 큰 임산부·수유부를 위해 식사 기록·영양 섭취 수준 평가·부족 영양소 보완을 지원하는 앱 ° AI 추정 대신 실측 데이터만 사용하는 설계, 보건소 모자보건·영양플러스 사업 정보 연계, 식약처 임부 금기 성분·DUR 의약품 정보 제공, 출산 후 수유부 기준으로 생애주기 확장",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "이연수 외 2",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "단국대 수학과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "「간 맞춤표」 노인 급식 식재료를 국가표준식품성분DB 식품코드로 잇는 기준표와 나트륨 식단표",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 노인·장애인복지시설 급식 식단표에 나트륨 칸이 없고 식재료명의 22%가 DB와 자동 연결되지 않는 문제에 착안 ° 급식관리지원센터 영양사가 확정한 '식재료명–DB 식품코드' 기준표를 만들고 이를 통해 끼니·음식·재료별 나트륨을 식단표에 붙이는 웹 도구 ° 대표식단은 중앙에서 처리·배포하고 시설이 바꾼 음식만 센터가 재계산해 '같은 식단, 같은 값' 보장",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "김주안 외 4",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "고려대 경영학과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "「대체, 괜찮을까?」–식단변경 영양편차Pre-check",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 급식 식재료를 A→B로 바꾸는 시점에 그 변경이 영양소 제공량을 얼마나 바꾸는지 DB 활용 즉시 계산해 보여주는 영양사 의사결정 보조 기능 ° '식단'이 아닌 '변경(A→B)' 자체를 분석 단위로 삼고 판정 없이 전·후·차이만 제시",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "○ 학술활용 분야 (최우수상 1, 우수상 1, 장려상 2)",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "상장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "성명",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "소속",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "작품명",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "주요내용",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "최우수상",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "권성옥 외 5",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "서울대 생활과학연구소 등",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "Harmonization, standardization, and integration of food and nutrient database in Korea",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 농촌진흥청·해양수산부·식약처가 각각 운영해 온 3개 식품영양성분 DB의 용어·식품코드·영양소 항목·단위를 표준화하고 하나로 통합한 다부처 사업의 과정과 결과를 정리",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "우수상",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "주혜인 외 2",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "가톨릭대 식품영양학과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "Food sources of zinc and nutritional status with usual dietary zinc intake in Korean toddlers and preschool children",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 2009～2013년 국민건강영양조사의 1~5세 영유아 2,679명 자료로 아연 급원식품과 통상 섭취량(usual intake) 분포를 평가 ° 평균필요량 미만 섭취 비율은 1.1%에 불과한 반면 상한섭취량 초과 비율은 10.7%로, 특히 1~2세에서 25.6%가 상한을 초과해 영유아 아연 과잉 섭취에 대한 관리 필요성 제기",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "장려상",
+      "rowspan": 2,
+      "colspan": 1
+     },
+     {
+      "text": "강민숙 외 3",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "국립농업과학원, 한남대 등",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "Association of Dietary Resistant Starch Intake with Obesity and Metabolic Syndrome in Korean Adults",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 한국 상용식품 저항전분(RS) 함량 DB (3,885종)를 2016∼2018년 국민건강영양조사 24시간 회상 자료와 연계하여 성인 12,491명의 RS 섭취량 산출, 비만·대사증후군과의 관련성 분석 ° 남성에서 RS 섭취 최상위 사분위군은 최하위군에 비해 대사증후군(OR 0.71), 비만(OR 0.80), 고중성지방혈증(OR 0.80) 위험이 유의하게 낮았음",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "윤서영 외 8",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "국립공주대, 숙명여대, 서울대 등",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "Application of cooked meat codes to improve the validity of nutrient content estimation in a recipe-based food ingredient database",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "° 레시피 기반 영양 DB에서 육류 재료에 생육(raw) 코드 대신 조리육(cooked) 코드를 적용하면 영양소 추정 타당도가 개선되는지를 돼지고기 3부위·소고기 4부위의 구이 실험으로 검증 ° 조리수율과 조리육 코드를 결합하면 섭취량 과대추정을 줄일 수 있으며, 향후 DB에 조리 온도·시간·익힘 정도를 반영 제안",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  }
+ ]
+}

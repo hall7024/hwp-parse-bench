@@ -1,0 +1,229 @@
+{
+ "id": "kr-156719869",
+ "source": "53f37ea505ec87dce60ef354fd20a13d65d69763b3f314cdf6905294a6353ceb",
+ "status": "auto",
+ "extractor": "4",
+ "blocks": [
+  {
+   "rows": [
+    [
+     {
+      "text": "문화체육관광부",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "보도자료",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "보도시점",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "2025. 9. 3.(수) 19:00",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "2025. 9. 3.(수) 19:00",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "‘케이-컬처’ 300조 원 시대 도약을 위해 문학·미술 현장 목소리 청취",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "- 9. 3. 최휘영 장관, 문학·미술 분야 예술인 간담회 개최 - 문학과 미술 진흥 정책 수립 위해 작가와 평론가 등 분야별 전문가 의견 수렴",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "문화체육관광부(이하 문체부) 최휘영 장관은 9월 3일(수) 오후, 서울 예술가의 집에서 문학과 미술 분야 현장 전문가들을 만나 문학과 미술진흥 정책을 수립하기 위한 의견을 청취했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "예술 분야 협회·단체장 간담회(9. 1.)와 공연예술인 간담회(9. 2.)에 이은 이번 간담회는 문학인과 미술인의 생생한 현장 목소리를 듣기 위해 마련됐다. 간담회에는 권아람 건국대학교 교수, 김상철 한국문화정책연구소 이사, 김지은 서울예대 교수, 백다흠 악스트 편집장, 손원평 작가, 오제성 작가, 이명옥 한국시각예술저작권연합회 회장, 조온윤 작가 등이 참석했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "참석자들은 “청년예술인들이 작업에 집중할 수 있는 지원체계가 필요하다.”라고 한목소리를 냈다. 일부 참석자는 “‘케이-컬처’에 대한 국제적 관심이 증대되는 지금이 한국 예술이 해외에 진출할 적기”라고 강조했다. 아울러, “‘케이-컬처’의 지속적 성장을 위해서는 다양한 기관 간의 협업이 필수적이다.”라는 의견도 제기됐다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "최휘영 장관은 “대한민국 문화예술의 발전을 위해서는, 무엇보다도 청년예술인들의 지속적 유입과 국민의 문화 향유 기반 확대가 중요하다.”라며, “현장 의견을 정책에 담아 예술인들의 창작을 지원하고, ‘케이-컬처’ 시장 300조 원 시대를 달성하겠다.”라고 밝혔다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "따로 붙임 현장 사진",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "담당 부서",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "문화예술정책실",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "책임자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "과장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "김홍필",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "예술정책과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "담당자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "사무관",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "손화경",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "담당 부서",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "문화예술정책실",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "책임자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "과장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "조경미",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "시각예술디자인과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "담장자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "사무관",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "권순우",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  }
+ ]
+}

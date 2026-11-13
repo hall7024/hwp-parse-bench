@@ -1,0 +1,148 @@
+{
+ "id": "kr-156738659",
+ "source": "7fde59674f1747bb65f38f09dbe405e61d79fb0e83a57b989601b8c45f0867df",
+ "status": "auto",
+ "extractor": "4",
+ "blocks": [
+  {
+   "rows": [
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "보도자료",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "보도시점",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포즉시",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "2025. 12. 5.(금)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "우주항공청 인사(2025. 12. 8.)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "□ 과장급 전보",
+   "kind": "paragraph"
+  },
+  {
+   "text": "▲ 행정법무담당관 정 길 태",
+   "kind": "paragraph"
+  },
+  {
+   "text": "▲ 정보화담당관 정 혜 경",
+   "kind": "paragraph"
+  },
+  {
+   "text": "▲ 운영지원과장 조 아 리",
+   "kind": "paragraph"
+  },
+  {
+   "text": "▲ 우주항공산업정책과장 이 효 희",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "담당 부서",
+      "rowspan": 2,
+      "colspan": 1
+     },
+     {
+      "text": "인사과",
+      "rowspan": 2,
+      "colspan": 1
+     },
+     {
+      "text": "책임자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "과장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "장기동",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "담당자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "과학기술서기관",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "김민수",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  }
+ ]
+}

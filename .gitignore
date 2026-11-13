@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+# 저장소에 넣지 않는 코퍼스 파일 (hwpbench fetch로 받음)
+corpus/cache/
+# 실행 결과 원본은 크기 때문에 요약만 커밋
+results/*/raw/
+results/.warmup/

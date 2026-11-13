@@ -1,0 +1,22 @@
+version = 1
+revision = 5
+requires-python = "==3.12.*"
+
+[options]
+exclude-newer = "2026-11-06T00:00:00Z"
+
+[manifest]
+requirements = [{ name = "hwpforge", specifier = "==0.19.1" }]
+
+[[package]]
+name = "hwpforge"
+version = "0.19.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/40/64/7e6e59d9a177bace0763d0b08245bb421387a6eaf0a7fd7008901fe9556f/hwpforge-0.19.1.tar.gz", hash = "sha256:80bca2f2e2ee88653b52628acdd06c55d586cb0312dfffead2b6717ad64e5862", size = 3327846, upload-time = "2026-11-03T10:40:15.21Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/61/a1/765d99aa30ca6d85a5a9a5b19b655a6885b90aa659cdbcf4498aa3e77cca/hwpforge-0.19.1-cp39-abi3-macosx_10_12_x86_64.whl", hash = "sha256:0fced47dc4f66b7d337c8a801cc53a4d7270a5cdd746e6b430d397a0de5a9cdd", size = 6980189, upload-time = "2026-11-03T10:40:07.28Z" },
+    { url = "https://files.pythonhosted.org/packages/1f/43/dbf0f56d6352d2c9c27ee5fdc9b462d429f7dcbccca1cbb62b985d80c332/hwpforge-0.19.1-cp39-abi3-macosx_11_0_arm64.whl", hash = "sha256:eb2b9765e946882d23c1632def90e20d349bcab1495480e14be026f7700bf0db", size = 6554133, upload-time = "2026-11-03T10:40:08.84Z" },
+    { url = "https://files.pythonhosted.org/packages/fb/7e/1750306bd475e529b264a6bba2422f3d3d6fae285d929400764ec18409c5/hwpforge-0.19.1-cp39-abi3-manylinux_2_28_aarch64.whl", hash = "sha256:d585533b725cc53618cc8866382ae1d7df9e1fd6fe0ba3e193e5a6b92ecc8add", size = 6723661, upload-time = "2026-11-03T10:40:10.85Z" },
+    { url = "https://files.pythonhosted.org/packages/90/3f/7e95441fe5a84712d55790a3d23496e36cef16b33663e2c8e05ec3acdb6e/hwpforge-0.19.1-cp39-abi3-manylinux_2_28_x86_64.whl", hash = "sha256:e136378be6c127070c748e509d4d2d9fd57c33828f71cc45ec680352061a7fe6", size = 7233086, upload-time = "2026-11-03T10:40:12.308Z" },
+    { url = "https://files.pythonhosted.org/packages/01/fe/0f5ca8fd35c7a8c6575daa9dff1666484aac1a37cf80187be598302629a4/hwpforge-0.19.1-cp39-abi3-win_amd64.whl", hash = "sha256:39a379d701a695f6d40fba396bf2fef450df53352cfe0c6e466e0cb75b19c4b3", size = 7577152, upload-time = "2026-11-03T10:40:13.867Z" },
+]

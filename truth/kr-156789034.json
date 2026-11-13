@@ -1,0 +1,325 @@
+{
+ "id": "kr-156789034",
+ "source": "3bcb7569d5dc5ecd8ee97e4705d075591f34739c58ca22c89a4e4122e97c2cd2",
+ "status": "auto",
+ "extractor": "4",
+ "blocks": [
+  {
+   "rows": [
+    [
+     {
+      "text": "광",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "보도자료",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "보도 시점",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포 즉시",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "배포",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "2026. 11. 11.(수)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "농촌진흥청, 한우농가 인공지능 사육 관리 현장 점검",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "- 조용민 국립축산과학원장 11일 강원도 홍천군 시범 농가 방문 - 가축 이상 징후 탐지 시스템 보급 현황 점검 - 시스템 활용 현황·현장 의견 듣고, 겨울철 한파·화재 대비 당부",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "농촌진흥청(청장 이승돈) 국립축산과학원 조용민 원장은 11월 11일 강원특별자치도 홍천군 덕현3목장을 방문해 인공지능(AI) 기반 ‘가축 이상 징후 탐지시스템’ 활용 현황을 살피고, 사용 효과와 개선 사항을 들었다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "한우 230여 마리를 사육하는 이 농장은 올해 ‘인공지능 기반 가축 이상 징후 탐지시스템 보급 시범사업’에 참여했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "이 시스템은 축사에 설치한 카메라 영상을 인공지능으로 분석해 소의 발정과 분만 징후, 뒤집힘 등 이상 상황을 감지하고 농장주 휴대전화로 알림을 보내는 기술이다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "농장주가 축사에 머물지 않아도 소의 상태를 파악하고 필요한 조치를 신속하게 할 수 있도록 돕는다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "덕현3목장 박시덕 대표는 “시스템 사용 후 소의 상태를 확인하러 수시로 축사를 찾는 부담이 줄었다.”라며, “이상 징후가 생기면 알림을 받고 바로 확인할 수 있어 사육 관리가 수월해졌다.”라고 말했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "이날 조 원장은 겨울철 한파에 대비한 송아지 보온시설과 축사 바람막이도 점검하고, 급수시설이 얼지 않도록 관리해 달라고 당부했다. 양질의 풀사료 공급과 축사 위생 관리로 가축 건강을 유지하고, 폭설에 대비해 축사 시설도 미리 점검할 것을 강조했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "조용민 원장은 “농가가 밤낮으로 소를 살펴야 하는 부담을 덜고, 이상 징후를 놓치지 않고 대응할 수 있도록 현장에서 확인한 효과와 개선 의견을 기술 보급에 반영하겠다.”라고 말했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "아울러 한파 시작 전 송아지 보온 관리와 급수시설, 보온등, 전기 배선 등을 점검해 가축의 안전한 겨울나기를 준비해 달라고 당부했다.",
+   "kind": "paragraph"
+  },
+  {
+   "text": "붙임. 시범농가 현장 방문 개요",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "담당 부서",
+      "rowspan": 2,
+      "colspan": 1
+     },
+     {
+      "text": "국립축산과학원",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "책임자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "과 장",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "최소영",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "기술지원과",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "담당자",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "연구사",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "김창한",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "(000-0000-0000)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 5
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "붙임",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "시범농가 현장 방문 개요",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  },
+  {
+   "text": "□ 개 요",
+   "kind": "paragraph"
+  },
+  {
+   "text": "○ 일 시: 2026. 11. 11. 09:50~10:30",
+   "kind": "paragraph"
+  },
+  {
+   "text": "○ 장 소: 강원도 홍천군 영귀미면 월운로 285",
+   "kind": "paragraph"
+  },
+  {
+   "text": "○ 내 용: 시범 추진 점검, 기술지원, 의견청취 등",
+   "kind": "paragraph"
+  },
+  {
+   "text": "○ 일 정 표",
+   "kind": "paragraph"
+  },
+  {
+   "rows": [
+    [
+     {
+      "text": "시 간",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "분",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "내 용",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "<11.11.(수)> 09:00∼09:50",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "50",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "이 동(춘천 → 홍천) * 농장주소: 홍천군 영귀미면 월운로 285",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "09:50～10:30",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "40",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "∘농장 방문 * 인공지능 기반 가축 이상징후 탐지시스템 보급시범 적용 성과 확인, 의견 청취, 겨울철 안전 관리 당부",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ],
+    [
+     {
+      "text": "10:30～14:00",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "210",
+      "rowspan": 1,
+      "colspan": 1
+     },
+     {
+      "text": "이 동(홍천 → 축산원)",
+      "rowspan": 1,
+      "colspan": 1
+     }
+    ]
+   ],
+   "kind": "table"
+  }
+ ]
+}

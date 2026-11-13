@@ -1,0 +1,6 @@
+이 디렉터리의 정답 파일(*.json, *.md, *.txt)은 CC BY 4.0(https://creativecommons.org/licenses/by/4.0/)으로 배포합니다.
+출처 표시: hwp-parse-bench (https://github.com/hall7024/hwp-parse-bench)
+
+정답에 담긴 글의 원저작물 조건은 corpus/manifest.jsonl의 license·license_basis를 따릅니다.
+- kr-copyright-art7: 법령 별표·서식. 저작권법 제7조에 따라 보호받지 못하는 저작물
+- kogl-type1-text: 정책브리핑 보도자료. 공공누리 제1유형(출처표시), 텍스트에 한함. 출처는 manifest의 publisher·source_page

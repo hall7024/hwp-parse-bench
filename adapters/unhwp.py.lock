@@ -1,0 +1,18 @@
+version = 1
+revision = 5
+requires-python = "==3.12.*"
+
+[options]
+exclude-newer = "2026-11-06T00:00:00Z"
+
+[manifest]
+requirements = [{ name = "unhwp", specifier = "==0.23.1" }]
+
+[[package]]
+name = "unhwp"
+version = "0.23.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/54/85/cd6fcbfe06ca25655328c12830b55432210d0b05c25bbdfe575d31573fbb/unhwp-0.23.1.tar.gz", hash = "sha256:b40cee0cd794a27030b6305e186d2ebd424602ab2766c176f5f54fd364c38bf3", size = 8758766, upload-time = "2026-10-24T08:11:23.976Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/53/75/e0d664f6006459be2f5de2b83dfebf2c2332e690fe6b895f64cf4179f38f/unhwp-0.23.1-py3-none-any.whl", hash = "sha256:aab0fdb92af5ab67d94b2698acb7ca4bbcbb6591de2a15f2c952927f02338957", size = 8784181, upload-time = "2026-10-24T08:11:22.077Z" },
+]

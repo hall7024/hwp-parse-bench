@@ -1,0 +1,239 @@
+{
+ "run_id": "20261113-012147",
+ "environment": {
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "processor": "arm",
+  "cpu_count": 12,
+  "python": "3.13.11",
+  "uv": "uv 0.13.7 (Homebrew 2026-11-03 aarch64-apple-darwin)",
+  "node": "v24.13.0",
+  "network_isolation": "sandbox-exec"
+ },
+ "adapters": [
+  {
+   "name": "kordoc",
+   "command": [
+    "node",
+    "adapters/kordoc/run.mjs"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "kordoc (npm)",
+   "version": "4.24.47",
+   "license": "MIT",
+   "notes": "kordoc 기본 출력. 병합 칸이 있는 표는 HTML, 나머지는 GFM 표. 표 판정도 기본값(layoutTables: visual, 테두리가 안 보이는 틀 표는 글로 냄). KORDOC_OFFLINE=1로 외부 통신을 막고 ocr: false로 OCR을 끈다. images: false라 그림 바이트는 싣지 않고 자리 표시만 남는다. 설치: adapters/kordoc 에서 npm ci (package-lock 고정, .npmrc가 install script와 optional 의존성을 막음).",
+   "status": "ok",
+   "env": null,
+   "setup": [
+    "npm",
+    "ci",
+    "--prefix",
+    "adapters/kordoc",
+    "--ignore-scripts",
+    "--omit=optional",
+    "--no-audit",
+    "--no-fund"
+   ]
+  },
+  {
+   "name": "kordoc-gfm",
+   "command": [
+    "node",
+    "adapters/kordoc/run.mjs",
+    "--table-format=gfm"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "kordoc (npm)",
+   "version": "4.24.47",
+   "license": "MIT",
+   "notes": "kordoc의 tableFormat: \"gfm\". 모든 표를 HTML 없이 GFM 파이프 표로 낸다(세로 병합 칸은 덮인 행마다 같은 값, 가로 병합 칸은 시작 칸에만 값, 표 안 표는 부모 표 뒤 독립 표로 꺼내고 관계를 HTML 주석으로 남김). 나머지 설정은 kordoc과 같다.",
+   "status": "ok",
+   "env": null,
+   "setup": [
+    "npm",
+    "ci",
+    "--prefix",
+    "adapters/kordoc",
+    "--ignore-scripts",
+    "--omit=optional",
+    "--no-audit",
+    "--no-fund"
+   ]
+  },
+  {
+   "name": "unhwp",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/unhwp.py"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "unhwp (PyPI)",
+   "version": "0.23.1",
+   "license": "MIT",
+   "notes": "RenderOptions(table_fallback=\"html\"): 병합 칸이 있는 표를 HTML(rowspan·colspan)로 낸다. 기본값 \"markdown\"은 병합 칸 글을 첫 칸에만 넣는다. 글을 바꾸는 cleanup은 끈 채 둔다. wheel에 네이티브 라이브러리가 들어 있는데 linux-arm64용은 없다(linux-x64, linux-musl-x64, macOS x64·arm64, win-x64).",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  },
+  {
+   "name": "python-hwpx",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/python-hwpx.py"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "python-hwpx (PyPI)",
+   "version": "6.11.0",
+   "license": "Apache-2.0",
+   "notes": "라이브러리의 Markdown 변환기(hwpx.ingest)와 같은 호출: doc.text.markdown(rich=True, detect_headings=True). rich=True라야 각주·미주가 나오고 병합 칸 표가 HTML이 된다. .hwp는 HwpxDocument.open이 HWPX로 바꿔 읽는다. 라이브러리 설명상 수식·글자 겹침·양식 개체 캡션은 나오지 않는다.",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  },
+  {
+   "name": "hwp-hwpx-parser",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/hwp-hwpx-parser.py"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "hwp-hwpx-parser (PyPI)",
+   "version": "1.0.0",
+   "license": "Apache-2.0",
+   "notes": "ExtractOptions(table_style=MARKDOWN, image_marker=NONE). HTML 표 출력이 없어 병합 칸은 표현되지 않는다. 본문 외 부분은 일반 텍스트다. 각주·미주는 extract_text_with_notes로 받아 끝에 [^n]: 형식으로 붙인다(이 붙이기는 어댑터 코드).",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  },
+  {
+   "name": "hwpforge",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/hwpforge.py"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "hwpforge (PyPI)",
+   "version": "0.19.1",
+   "license": "MIT OR Apache-2.0",
+   "notes": "Document.open(path).to_md(mode=\"lossy\"). 기본 \"styled\"는 스타일 frontmatter를 붙이고 \"lossless\"는 라이브러리 설명상 기계 점검용 보기라 본문 비교에 맞지 않는다. Markdown 표가 파이프 표뿐이라 병합 칸은 표현되지 않는다. wheel은 manylinux_2_28(glibc 2.28 이상).",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  },
+  {
+   "name": "rhwp-python",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/rhwp-python.py"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "rhwp-python (PyPI)",
+   "version": "0.8.1",
+   "license": "MIT",
+   "notes": "라이브러리의 IR Markdown 렌더러 rhwp.parse(path).to_ir().to_markdown(). 병합 칸이 없는 표는 GFM, 있으면 HTML. 각주·미주는 끝에 [^N] 정의, 머리말·꼬리말은 넣지 않는다. Document.extract_text()는 표 안 글을 내지 않아(샘플 보도자료에서 확인) 쓰지 않는다.",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  },
+  {
+   "name": "gethwp",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/gethwp.py"
+   ],
+   "output": "text",
+   "formats": [
+    "hwp",
+    "hwpx"
+   ],
+   "package": "gethwp (PyPI)",
+   "version": "1.1.1",
+   "license": "MIT",
+   "notes": "텍스트만 낸다(read_hwp·read_hwpx). 표 구조가 없으므로 표·제목 지표는 N/A로 둔다. 형식은 파일 앞 바이트로 고른다.",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  },
+  {
+   "name": "llama-index-readers-hwp",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/llama-index-readers-hwp.py"
+   ],
+   "output": "text",
+   "formats": [
+    "hwp"
+   ],
+   "package": "llama-index-readers-hwp (PyPI)",
+   "version": "0.6.0",
+   "license": "MIT",
+   "notes": "LlamaIndex HWPReader.load_data. HWP5(OLE)의 본문 텍스트만 읽고 표 구조는 없다. HWPX는 지원하지 않아 실패로 끝낸다. llama-index-core를 통째로 끌어와 의존 패키지가 64개다. 코드에서 텔레메트리 호출은 찾지 못했고, 네트워크를 막은 실행에서도 성공했다.",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  },
+  {
+   "name": "pyhwp",
+   "command": [
+    "uv",
+    "run",
+    "--script",
+    "adapters/pyhwp.py"
+   ],
+   "output": "markdown",
+   "formats": [
+    "hwp"
+   ],
+   "package": "pyhwp (PyPI)",
+   "version": "0.1b15",
+   "license": "AGPL-3.0-or-later",
+   "notes": "AGPL이라 import하지 않고 hwp5html 명령을 별도 프로세스로 실행한다. Python 3.11 고정(setup.py가 3.12에서 빠진 distutils를 import). 선언되지 않은 의존성 six를 직접 넣는다. Markdown 출력이 없어 hwp5html의 XHTML을 어댑터가 문단 줄과 HTML 표(rowspan·colspan만 남김)로 옮긴다. 이 변환은 어댑터 코드다. HWP5만 읽는다.",
+   "status": "ok",
+   "env": null,
+   "setup": null
+  }
+ ],
+ "tests": 72
+}

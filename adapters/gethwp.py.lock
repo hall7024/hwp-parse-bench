@@ -1,0 +1,30 @@
+version = 1
+revision = 5
+requires-python = "==3.12.*"
+
+[options]
+exclude-newer = "2026-11-06T00:00:00Z"
+
+[manifest]
+requirements = [{ name = "gethwp", specifier = "==1.1.1" }]
+
+[[package]]
+name = "gethwp"
+version = "1.1.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "olefile" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/48/4e/4ab7afb8d131937e641c0a6ec6fe362ccf8173f255a37a40241aa5381e6d/gethwp-1.1.1.tar.gz", hash = "sha256:c736ffe4db8b8dd711f258364b8c09170a7fc993f9d0241bcc9a51831d11e54d", size = 3751, upload-time = "2024-02-11T13:59:37.972Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/1e/df/3db50a00bb56e925126df5a8330ec434585750faffdcd8f167e6bf2d38da/gethwp-1.1.1-py3-none-any.whl", hash = "sha256:67ce0206c23ea52df7a80b9235d50138ae786de8b83f087a8b7c9deecaff8d71", size = 3928, upload-time = "2024-02-11T13:59:36.257Z" },
+]
+
+[[package]]
+name = "olefile"
+version = "0.47"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/69/1b/077b508e3e500e1629d366249c3ccb32f95e50258b231705c09e3c7a4366/olefile-0.47.zip", hash = "sha256:599383381a0bf3dfbd932ca0ca6515acd174ed48870cbf7fee123d698c192c1c", size = 112240, upload-time = "2023-12-01T16:22:53.025Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/17/d3/b64c356a907242d719fc668b71befd73324e47ab46c8ebbbede252c154b2/olefile-0.47-py2.py3-none-any.whl", hash = "sha256:543c7da2a7adadf21214938bb79c83ea12b473a4b6ee4ad4bf854e7715e13d1f", size = 114565, upload-time = "2023-12-01T16:22:51.518Z" },
+]
